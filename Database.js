@@ -1,7 +1,7 @@
 /*
-grimza_src (Main Developer)
-Copyright 2024 all rights reserved by grimza_src. DO NOT steal, copy the code, or claim it as your own!
-Please send a message to grimza_src on Discord, or join our discord server: its coming very soon
+grimza_zrc (Main Developer)
+Copyright 2024 all rights reserved by grimza_zrc. DO NOT steal, copy the code, or claim it as your own!
+Please send a message to grimza_zrc on Discord, or join our discord server: its coming very soon
 Thank you.
 
 Alternate-implementation build — same public API/behavior as the original,
