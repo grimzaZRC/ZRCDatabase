@@ -1,6 +1,6 @@
 /*
-grimza_zrc (Main Developer)
-Copyright 2024 all rights reserved by grimza_zrc. DO NOT steal, copy the code, or claim it as your own!
+developer6087 (Main Developer)
+Copyright 2024 all rights reserved by developer6087. DO NOT steal, copy the code, or claim it as your own!
 Please send a message to grimza_zrc on Discord, or join our discord server: its coming very soon
 Thank you.
 
